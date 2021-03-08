@@ -7,9 +7,9 @@ I'm currently a CSE undergrad at IIIT Bhubanweswar. Learning programming and dis
  
 **💻Languages I've worked with till now:**
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![C]<img scr="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" width="50px">
+![C++]<img scr="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" width="50px">
+![HTML5]<img scr="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/html.png" width="50px">
 
  
 
