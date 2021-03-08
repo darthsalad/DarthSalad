@@ -7,7 +7,7 @@ I'm currently a CSE undergrad at IIIT Bhubanweswar. Learning programming and dis
  
 **💻Languages I've worked with till now:**
 
-[![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)]
+![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
 
  
 
