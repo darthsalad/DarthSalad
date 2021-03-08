@@ -7,9 +7,12 @@ I'm currently a CSE undergrad at IIIT Bhubanweswar. Learning programming and dis
  
 **💻Languages I've worked with till now:**
 
-[![C]]<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" width="50px">
-![C++]<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" width="50px">
-![HTML5]<img src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/html.png" width="50px">
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" width="30px">
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" width="30px">
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="30px">
+<img src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/html.png" width="30px">
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30px">
+
 
  
 
