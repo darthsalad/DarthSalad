@@ -21,7 +21,7 @@ Learning programming and discovering new things almost everyday excites me!
  </p>
  
  ---
-## **Click for GitHub Stats** 
+## **GitHub Stats 👇** 
 <details open>
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=DarthSalad&show_icons=true&theme=omni&line_height=27">
