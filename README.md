@@ -1,4 +1,10 @@
-<a href="https://twitter.com/IronLegTheOne" target="_blank" rel="nofollow"><img title="Twitter" align="right" alt="Piyush's Twitter" width="40px" color="white" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/twitter-round.svg" /></a><a href="https://www.linkedin.com/in/piyushmishra965/" target="_blank" rel="nofollow"><img title="LinkedIn" align="right" alt="Piyush's Linkdein" width="40px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-round.svg" /></a><a href="https://www.instagram.com/_.darthsalad._/" target="_blank" rel="nofollow"><img title="Instagram" align="right" alt="Piyush's Insta" width="40px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/instagram-round.svg" /></a>
+<style>
+ .icon{
+ background-color: white;
+ border-radius: 50%;
+ }
+ </style>
+<a href="https://twitter.com/IronLegTheOne" target="_blank" rel="nofollow"><img class="icon" title="Twitter" align="right" alt="Piyush's Twitter" width="40px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/twitter-round.svg" /></a><a href="https://www.linkedin.com/in/piyushmishra965/" target="_blank" rel="nofollow"><img class="icon" title="LinkedIn" align="right" alt="Piyush's Linkdein" width="40px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-round.svg" /></a><a href="https://www.instagram.com/_.darthsalad._/" target="_blank" rel="nofollow"><img class="icon" title="Instagram" align="right" alt="Piyush's Insta" width="40px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/instagram-round.svg" /></a>
 # Hello There ✋👋✋ I'm Piyush Mishra.
 ## **About Me**
 
