@@ -3,7 +3,7 @@
 
 ## **About Me**
 
-I'm currently a CSE undergrad at IIIT Bhubanweswar.
+I'm currently a CSE undergrad at IIIT Bhubanweswar.<br>
 Learning programming and discovering new things almost everyday excites me!
 
 ---
