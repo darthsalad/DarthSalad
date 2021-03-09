@@ -1,6 +1,4 @@
-# Hello There ✋👋✋
-## I'm Piyush Mishra.
-
+# Hello There ✋👋✋ I'm Piyush Mishra.
 ## **About Me**
 
 I'm currently a CSE undergrad at IIIT Bhubanweswar.<br>
