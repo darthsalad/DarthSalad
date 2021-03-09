@@ -1,12 +1,14 @@
-### Hello There ✋👋✋
-### I'm Piyush Mishra
+# Hello There ✋👋✋
+## I'm Piyush Mishra
 
-**About Me**
+##**About Me**
 
 I'm currently a CSE undergrad at IIIT Bhubanweswar.
 Learning programming and discovering new things almost everyday excites me!
+
+---
  
-**💻Languages I've worked with till now:**
+##**💻Languages I've worked with till now:**
 
 <p align="center">
 <img alt="C" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" width="30px">
@@ -18,6 +20,8 @@ Learning programming and discovering new things almost everyday excites me!
 <img alt="Git" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30px">
  
  </p>
+ 
+ ---
 
 
  
