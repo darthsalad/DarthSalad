@@ -1,3 +1,4 @@
+<a href="https://twitter.com/IronLegTheOne" target="_blank" rel="nofollow"><img align="right" alt="Piyush's Twitter" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/twitter-round.svg" /></a><a href="https://www.linkedin.com/in/piyushmishra965/" target="_blank" rel="nofollow"><img align="right" alt="Piyush's Linkdein" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-round.svg" /></a><a href="https://www.instagram.com/_.darthsalad._/" target="_blank" rel="nofollow"><img align="right" alt="Piyush's Insta" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/instagram-round.svg" /></a>
 # Hello There ✋👋✋ I'm Piyush Mishra.
 ## **About Me**
 
@@ -23,8 +24,8 @@ Learning programming and discovering new things almost everyday excites me!
 <details>
 <summary>Click for GitHub Stats</summary>
 <p align="center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=DarthSalad&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DarthSalad&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=DarthSalad&show_icons=true&theme=omni&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DarthSalad&theme=omni">
 </p>
 </details> 
 
