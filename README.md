@@ -16,6 +16,8 @@ Learning programming and discovering new things almost everyday excites me!
 <img title="Javascript" alt="Javascript" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png" width="30px">
 <img title="HTML" alt="HTML" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="40px">
 <img title="CSS" alt="CSS" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" width="30px">
+<img title="Bootstrap" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="30px">
+<img title="Sass" alt="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30px">
 <img title="Git" alt="Git" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30px">
  
  </p>
