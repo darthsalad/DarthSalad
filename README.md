@@ -6,6 +6,20 @@ I'm a CSE undergrad at IIIT Bhubanweswar.<br>
 Learning programming and discovering new things almost everyday
 
 ---
+
+## More about me:
+
+- 🔭 I am currently working on [MovieNix - A movie streaming platform](https://github.com/saswatsam786/movieNix)
+
+- 🌱  I’m currently learning **React, Flutter and Cloud (AWS)**
+
+- 👯 I'm lookin to collaborate on **Flask, OpenCV, React**
+
+-  💬 Ask me about **Python, Flask, C++, Git **
+
+-  📫 How to reach me **piyushmishra965@gmail.com**
+
+---
  
 ## **💻Languages and frameworks I've worked with till now:**
 
