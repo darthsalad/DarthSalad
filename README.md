@@ -15,7 +15,7 @@ Learning programming and discovering new things almost everyday
 
 - 👯 I'm lookin to collaborate on **Flask, OpenCV, React**
 
--  💬 Ask me about **Python, Flask, C++, Git**
+-  💬 Ask me about **Python, C++, Git**
 
 -  📫 How to reach me **piyushmishra965@gmail.com**
 
