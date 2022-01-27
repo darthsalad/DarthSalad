@@ -46,8 +46,8 @@ Learning programming and discovering new things almost everyday
 ## **GitHub Stats 👇** 
 <details>
 <p align="center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=DarthSalad&show_icons=true&theme=omni&locale=en">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DarthSalad&theme=omni&show_icons=true&layout=compact">
+  <img src = "https://github-readme-stats.vercel.app/api?username=DarthSalad&show_icons=true&theme=omni&locale=en" height="150px">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DarthSalad&theme=omni&show_icons=true&layout=compact" height="150px">
 </p>
 </details> 
 
