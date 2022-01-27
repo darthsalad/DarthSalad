@@ -11,7 +11,7 @@ Learning programming and discovering new things almost everyday
 
 - 🔭 I am currently working on [Sorting Visualizer - A sorting visualizer made using ReactJS](https://github.com/DarthSalad/Sorting-Visualizer)
 
-- 🌱  I’m currently learning **React, Flutter and Cloud (AWS)**
+- 🌱  I’m currently learning **TypeScript and Cloud (AWS)**
 
 - 👯 I'm lookin to collaborate on **Flask, OpenCV, React**
 
