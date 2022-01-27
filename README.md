@@ -9,7 +9,7 @@ Learning programming and discovering new things almost everyday
 
 ## More about me:
 
-- 🔭 I am currently working on [MovieNix - A movie streaming platform](https://github.com/saswatsam786/movieNix)
+- 🔭 I am currently working on [Sorting Visualizer - A sorting visualizer made using ReactJS](https://github.com/DarthSalad/Sorting-Visualizer)
 
 - 🌱  I’m currently learning **React, Flutter and Cloud (AWS)**
 
@@ -17,7 +17,7 @@ Learning programming and discovering new things almost everyday
 
 -  💬 Ask me about **Python, C++, Git**
 
--  📫 How to reach me **piyushmishra965@gmail.com**
+-  📫 How to reach me: **piyushmishra965@gmail.com**
 
 ---
  
