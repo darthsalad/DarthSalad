@@ -9,13 +9,13 @@ Learning programming and discovering new things almost everyday
 
 ## More about me:
 
-- 🔭 I am currently working on [Sorting Visualizer - A sorting visualizer made using ReactJS](https://github.com/DarthSalad/Sorting-Visualizer)
+- 🔭 I am currently working on [univBoard](https://github.com/DarthSalad/univboard)
 
 - 🌱  I’m currently learning **TypeScript and Cloud (AWS)**
 
-- 👯 I'm lookin to collaborate on **Flask, OpenCV, React**
+- 👯 I'm lookin to collaborate on **Flask, React**
 
--  💬 Ask me about **Python, C++, Git**
+-  💬 Ask me about **Python, Git, JS**
 
 -  📫 How to reach me: **piyushmishra965@gmail.com**
 
