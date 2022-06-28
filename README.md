@@ -9,7 +9,7 @@ Learning programming and discovering new things almost everyday
 
 ## More about me:
 
-- 🔭 I am currently working on [univBoard](https://github.com/DarthSalad/univboard)
+- 🔭 I am currently working on [Univboard](https://github.com/DarthSalad/univboard)
 
 - 🌱  I’m currently learning **TypeScript and Cloud (AWS)**
 
@@ -17,7 +17,7 @@ Learning programming and discovering new things almost everyday
 
 -  💬 Ask me about **Python, Git, JS**
 
--  📫 How to reach me: **piyushmishra965@gmail.com**
+-  📫 How to connect with me: [Mail](mailto:piyushmishra965@gmail.com), [LinkedIn](https://www.linkedin.com/in/piyushmishra965/)
 
 ---
  
