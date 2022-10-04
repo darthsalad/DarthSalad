@@ -1,9 +1,9 @@
-<a href="https://twitter.com/_darthsalad_" target="_blank" rel="nofollow"><img class="icon" title="Twitter" align="right" alt="Piyush's Twitter" width="40px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/twitter-round-color.svg" /></a><a href="https://www.linkedin.com/in/piyushmishra965/" target="_blank" rel="nofollow"><img class="icon" title="LinkedIn" align="right" alt="Piyush's Linkdein" width="40px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-round-color.svg" /></a><a href="mailto:piyushmishra965@gmail.com" target="_blank" rel="nofollow"><img class="icon" title="Mail" align="right" alt="Mail to Piyush" width="40px" src="email-circle-icon-5.jpg" /></a>
+<a href="https://twitter.com/_darthsalad_" target="_blank" rel="nofollow"><img class="icon" title="Twitter" align="right" alt="Piyush's Twitter" width="40px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/twitter-round-color-icon.svg" /></a><a href="https://www.linkedin.com/in/piyushmishra965/" target="_blank" rel="nofollow"><img class="icon" title="LinkedIn" align="right" alt="Piyush's Linkdein" width="40px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-round-color-icon.svg" /></a><a href="mailto:piyushmishra965@gmail.com" target="_blank" rel="nofollow"><img class="icon" title="Mail" align="right" alt="Mail to Piyush" width="40px" src="email-circle-icon-5.jpg" /></a>
 # Hello There ✋👋✋ I'm Piyush Mishra.
 ## **About Me**
 
-I'm a CSE sophomore at IIIT Bhubanweswar.<br>
-Learning programming and discovering new things almost everyday
+I'm a CSE junior at IIIT Bhubanweswar.<br>
+Still learning and discovering new things
 
 ---
 
@@ -11,11 +11,11 @@ Learning programming and discovering new things almost everyday
 
 - 🔭 I am currently working on [Univboard](https://github.com/DarthSalad/univboard)
 
-- 🌱  I’m currently learning **TypeScript and Cloud (AWS)**
+- 🌱  I’m currently learning **TypeScript**, **Docker** and **Jenkins**
 
-- 👯 I'm lookin to collaborate on **Flask, React**
+- 👯 I'm lookin to collaborate on **JavaScript projects, Backend projects**
 
--  💬 Ask me about **Python, Git, JS**
+-  💬 Ask me about **Python, Git, JavaScript, DevOps**
 
 -  📫 How to connect with me: [Mail](mailto:piyushmishra965@gmail.com), [LinkedIn](https://www.linkedin.com/in/piyushmishra965/)
 
