@@ -1,55 +1,51 @@
-<a href="https://twitter.com/_darthsalad_" target="_blank" rel="nofollow"><img class="icon" title="Twitter" align="right" alt="Piyush's Twitter" width="40px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/twitter-round-color-icon.svg" /></a><a href="https://www.linkedin.com/in/piyushmishra965/" target="_blank" rel="nofollow"><img class="icon" title="LinkedIn" align="right" alt="Piyush's Linkdein" width="40px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-round-color-icon.svg" /></a><a href="mailto:piyushmishra965@gmail.com" target="_blank" rel="nofollow"><img class="icon" title="Mail" align="right" alt="Mail to Piyush" width="40px" src="email-circle-icon-5.jpg" /></a>
-# Hello There ✋👋✋ I'm Piyush Mishra.
-## **About Me**
+# Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a CSE junior at IIIT Bhubanweswar.<br>
-Still learning and discovering new things
+**I am Piyush Mishra, a Full Stack Developer from India.** <br/> 
+I am currently in my Junior year of BTech from **IIIT Bhubaneswar** (CSE) and am currently working on **Cloud** and **DevOps**.
 
----
+## About Me:
+- 🔭 I’m currently working on [Univboard](https://github.com/DarthSalad/univboard/tree/overhaul-v2)<br>
+- 👯 I’m looking to collaborate on **Backend** and **DevOps** projects<br>
+- 🌱 I’m currently learning **Kubernetes**, **AWS** and **CI/CD**<br>
+- 💬 Ask me about **JavaScript**, **TypeScript**, **Next.js**, **Nest.js**, **Docker**, **Linux**<br>
+- ⚡ **Fun fact** - I have watched Power Rangers: Operation Overdrive from start to finish over seven times and have probably watched Star Wars Episode III: Revenge of the Sith over eight times.<br>
 
-## More about me:
 
-- 🔭 I am currently working on [Univboard](https://github.com/DarthSalad/univboard)
+## Reach Out:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushmishra965@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyushmishra965) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_darthsalad_) 
 
-- 🌱  I’m currently learning **TypeScript**, **Docker** and **Jenkins**
+## Tools and Technologies:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+## GitHub Stats:
+<div align="center">
 
-- 👯 I'm lookin to collaborate on **JavaScript projects, Backend projects**
+![](https://github-readme-stats.vercel.app/api?username=DarthSalad&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/><br />
+![](https://github-readme-streak-stats.herokuapp.com/?user=DarthSalad&theme=onedark&hide_border=false)<br/><br />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarthSalad&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
--  💬 Ask me about **Python, Git, JavaScript, DevOps**
-
--  📫 How to connect with me: [Mail](mailto:piyushmishra965@gmail.com), [LinkedIn](https://www.linkedin.com/in/piyushmishra965/)
-
----
- 
-## **💻Languages and frameworks I've worked with till now:**
-
-<p align="center">
-<img title="C" alt="C" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" width="30px">
-<img title="C++" alt="C++" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" width="30px">
-<img title="Python" alt="Python" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="30px">
-<img title="Dart" alt="Dart" src="dart-seeklogo.com.svg" width="30px">
-<img title="HTML" alt="HTML" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="40px">
-<img title="CSS" alt="CSS" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" width="30px">
-<img title="Javascript" alt="Javascript" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png" width="30px">
-<img title="React" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg" width="35px">
-<img title="Node" alt="Node" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg" width="30px" >
-<img title="Bootstrap" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="30px">
-<img title="Sass" alt="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30px">
-<img title="Git" alt="Git" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30px">
-<img title="Firebase" alt="Firebase" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/firebase/firebase-plain.svg" width="30px" >
-<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original-wordmark.svg" width="40px" >
-
- 
- </p>
- 
- ---
-## **GitHub Stats 👇** 
-<details>
-<p align="center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=DarthSalad&show_icons=true&theme=omni&locale=en" height="150px">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DarthSalad&theme=omni&show_icons=true&layout=compact" height="150px">
-</p>
-</details> 
-
- 
+</div>
 
