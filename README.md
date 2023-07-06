@@ -1,7 +1,7 @@
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 **I am Piyush Mishra, a Full Stack Developer from India.** <br/> 
-I am currently in my Junior year of BTech from **IIIT Bhubaneswar** (CSE) and am currently working on **Cloud** and **DevOps**.
+I am currently in my Senior year of BTech from **IIIT Bhubaneswar** (CSE) and am currently working on **Cloud** and **DevOps**.
 
 ## About Me:
 - 🔭 I’m currently working on [Univboard](https://github.com/DarthSalad/univboard/tree/overhaul-v2)<br>
