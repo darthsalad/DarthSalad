@@ -4,11 +4,11 @@
 I am currently in my Senior year of BTech from **IIIT Bhubaneswar** (CSE) and am currently working on **Cloud** and **DevOps**.
 
 ## About Me:
-- 🔭 I’m currently working on [Univboard](https://github.com/DarthSalad/univboard/tree/overhaul-v2)<br>
+- 🔭 I’m currently working on [Univboard](https://github.com/DarthSalad/univboard/tree/overhaul-v2) & [Socketeer](https://github.com/DarthSalad/socketeer)<br>
 - 👯 I’m looking to collaborate on **Backend** and **DevOps** projects<br>
-- 🌱 I’m currently learning **Kubernetes**, **AWS** and **CI/CD**<br>
+- 🌱 I’m currently learning **Kubernetes**, **Terraform** and **RabbitMQ**<br>
 - 💬 Ask me about **JavaScript**, **TypeScript**, **Next.js**, **Nest.js**, **Docker**, **Linux**<br>
-- ⚡ **Fun fact** - I have watched Power Rangers: Operation Overdrive from start to finish over seven times and have probably watched Star Wars Episode III: Revenge of the Sith over eight times.<br>
+- ⚡ **Fun fact** - I have watched Star Wars Episode III: Revenge of the Sith & Episode V: Empire strikes back over eight times.<br>
 
 
 ## Reach Out:
