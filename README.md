@@ -1,14 +1,14 @@
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 **I am Piyush Mishra, a Full Stack Developer from India.** <br/> 
-I am currently in my Senior year of BTech from **IIIT Bhubaneswar** (CSE) and am currently working on **Cloud** and **DevOps**.
+**CSE Senior | IIIT Bhubaneswar**.
 
 ## About Me:
 - 🔭 I’m currently working on [Univboard](https://github.com/DarthSalad/univboard/tree/overhaul-v2)<br>
 - 👯 I’m looking to collaborate on **Backend** and **DevOps** projects<br>
-- 🌱 I’m currently learning **Kubernetes**, **Terraform** and **RabbitMQ**<br>
-- 💬 Ask me about **JavaScript**, **TypeScript**, **Next.js**, **Nest.js**, **Docker**, **Linux**<br>
-- ⚡ **Fun fact** - I have watched Star Wars Episode III: Revenge of the Sith & Episode V: Empire strikes back over eight times.<br>
+- 🌱 I’m currently learning **Kubernetes**, **Langchain** and **Message Queues**<br>
+- 💬 Ask me about **JavaScript**, **TypeScript**, **Next.js**, **Docker**, **Linux**<br>
+- ⚡ **Fun fact** - I have watched Star Wars Episode III: Revenge of the Sith & Episode V: Empire Strikes Back over eight times.<br>
 
 
 ## Reach Out:
