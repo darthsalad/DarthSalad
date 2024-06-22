@@ -1,14 +1,12 @@
-# Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello there
 
-**I am Piyush Mishra, a Full Stack Developer from India.** <br/> 
-**CSE Senior | IIIT Bhubaneswar**.
+**I'm Piyush Mishra, a developer spinning many plates, with backend skills in Node.js and Go well in hand.**
 
 ## About Me:
-- 🔭 I’m currently working on [Univboard](https://github.com/DarthSalad/univboard/tree/overhaul-v2)<br>
-- 👯 I’m looking to collaborate on **Backend** and **DevOps** projects<br>
-- 🌱 I’m currently learning **Kubernetes**, **Langchain** and **Message Queues**<br>
-- 💬 Ask me about **JavaScript**, **TypeScript**, **Next.js**, **Docker**, **Linux**<br>
-- ⚡ **Fun fact** - I have watched Star Wars Episode III: Revenge of the Sith & Episode V: Empire Strikes Back over eight times.<br>
+- 🔭 Currently working on Data-intensive Systems and Scalability patterns<br>
+- 🌱 Looking into Open-Source Observability tools and Analytical Processing Systems<br>
+- 💬 Let's chat about Message Queues, Distributed systems, Linux and FOSS<br>
+- ⚡ Enjoy playing games(AAA titles and FPS multiplayer), watch brain rot content when not fixing bugs<br>
 
 
 ## Reach Out:
